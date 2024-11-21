@@ -2,6 +2,8 @@
 Useful utilities for autohotkey  
 Most of the functions have inline documentation  
 
+The scripts are provided as is and will probably not be updated
+
 ## controller.ahk 
 
 read window screen and send inputs in the background  
@@ -15,4 +17,4 @@ Where ctrl is an instance of Controller
 
 ## logger.ahk 
 
-see inline documentation (may write docs later)
+see inline documentation
